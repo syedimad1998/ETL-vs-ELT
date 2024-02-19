@@ -3,7 +3,8 @@ This repository provides two Python scripts illustrating the implementation of E
 
 ## ETL Process:
 The ETL script demonstrates a traditional ETL workflow with the following key steps:
-https://github.com/syedimad1998/ETL-vs-ELT/blob/main/ETL_Data_Eng.jpg
+![ETL_Data_Eng](https://github.com/syedimad1998/ETL-vs-ELT/assets/33065752/24e374ec-81a5-447a-995d-d511c4a7dcb5)
+
 Extraction: Initial log entry, data extraction from a source (illustrated with a sample extract() function).
 Transformation: Log entry, transformation of the extracted data using a transform() function.
 Loading: Loading the transformed data into a SQL Server table (load_to_sql_server() function).
