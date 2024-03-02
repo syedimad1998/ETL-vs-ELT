@@ -60,5 +60,3 @@ cursor.close()
 conn.close()
 
 print("Restored !")
-
-print("Completed")
