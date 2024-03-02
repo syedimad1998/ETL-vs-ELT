@@ -60,3 +60,7 @@ cursor.close()
 conn.close()
 
 print("Restored !")
+
+print("Completed")
+
+print("Ok tata bye")
