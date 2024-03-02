@@ -60,3 +60,6 @@ cursor.close()
 conn.close()
 
 print("Restored !")
+
+print("Have a great weekend y'll")
+
