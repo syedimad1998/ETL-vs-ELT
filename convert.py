@@ -63,3 +63,7 @@ print("Restored !")
 
 print("Have a great weekend y'll")
 
+
+
+
+print("Mondays are for a fresh starts")
